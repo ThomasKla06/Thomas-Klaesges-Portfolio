@@ -1,0 +1,23 @@
+img {
+	width: 320px;
+	height: 400px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+td {
+	padding-left: 10pt;
+	padding-right: 10pt;
+	font-size: 12pt;
+	text-align: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+body {
+	background-image: url("images/portfoliobg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1, h2, p, td, th, legend, label {
+	color: White;
+	text-shadow: 1px 1px #000000;
+}
