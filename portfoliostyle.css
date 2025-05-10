@@ -21,3 +21,7 @@ h1, h2, p, td, th, legend, label {
 	color: White;
 	text-shadow: 1px 1px #000000;
 }
+.padding {
+	padding-left: 10px;
+	padding-right: 15px;
+}
